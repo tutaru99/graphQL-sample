@@ -1,3 +1,3 @@
 # graphql_sample
 
-Example for the graphQL
+Example for the graphQL API
