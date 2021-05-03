@@ -1,2 +1,1 @@
-# graphQL-sample
-GraphQL Example project
+# graphql_sample
